@@ -1,0 +1,45 @@
+@font-face {
+    font-family: Arial;
+}
+
+body
+{
+    	font-family: Arial, sans-serif;
+}
+
+h1
+{
+	font-size: 30px;    
+	color: black;
+	text-align: center;
+}
+
+.intro
+{       color: #840E0E;
+	text-align: center;
+}
+
+.accroche
+{	
+	font-size: 20px;
+	text-align: center;
+	font-style: italic;
+}
+
+h2
+{	font-size: 25px; 
+	font-weight: normal;
+	color: black;
+	text-align: center;
+	text-shadow: 2px 2px 2px ;
+}
+
+h3
+{	font-size: 17px;
+	color: #840E0E;
+	text-decoration: underline;
+	text-align: center;
+	border: 1px black solid;
+	box-shadow: 4px 4px 0px black;
+} 
+
